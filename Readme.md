@@ -21,5 +21,9 @@
  <a href="mailto:dipudebnath966@gmail.com" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
+ <a href="skype:live:.cid.1fe9434165efa32c?call" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="skype" />
+</a>
+
 </p>
 
